@@ -7,4 +7,5 @@ html, body {
 #header {
   width: 100%;
   background-color: black;
+  padding: 2%;
 }
