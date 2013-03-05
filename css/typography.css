@@ -9,6 +9,10 @@ body {
   text-transform: uppercase;
 }
 
+#site-title h1 {
+  font-weight: normal;
+}
+
 #site-title strong {
   font-weight: 500;
 }
