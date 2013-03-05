@@ -10,4 +10,5 @@ html, body {
   padding: 1%;
   opacity: .8;
   position: fixed;
+  top: 0;
 }
