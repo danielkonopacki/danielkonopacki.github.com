@@ -3,3 +3,8 @@ html, body {
   padding: 0;
   border: 0;
 }
+
+#header {
+  width: 100%;
+  background-color: black;
+}
