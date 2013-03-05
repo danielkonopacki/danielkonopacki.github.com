@@ -5,9 +5,10 @@ body {
 }
 
 #site-title {
+  font-family: "Open Sans", Helvetica;
   text-transform: uppercase;
 }
 
-#site-title em {
+#site-title strong {
   font-weight: 500;
 }
