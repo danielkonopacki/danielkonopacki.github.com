@@ -8,4 +8,6 @@ html, body {
   width: 100%;
   background-color: black;
   padding: 1%;
+  opacity: .8;
+  position: fixed;
 }
