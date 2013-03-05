@@ -17,6 +17,11 @@ body {
   padding: 0;
 }
 
+#site-title h1 a {
+  color: white;
+  text-decoration: none;
+}
+
 #site-title strong {
   font-weight: bold;
 }
