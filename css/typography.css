@@ -1,5 +1,13 @@
 body {
-  font-family: Georgia, "Lucida Grande", Verdana;
+  font-family: Georgia, "Times New Roman", Verdana;
   line-height: 150%;
   font-size: 95%;
+}
+
+#site-title {
+  text-transform: uppercase;
+}
+
+#site-title em {
+  font-weight: 500;
 }
