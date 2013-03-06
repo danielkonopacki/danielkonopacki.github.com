@@ -36,6 +36,7 @@ html, body {
   text-indent: -9999px;
   overflow: hidden;
   text-align: left;
+  display: inline-block;
 }
 
 .background {
