@@ -4,7 +4,8 @@ body {
   font-size: 95%;
 }
 
-#site-title {
+#site-title,
+#nav {
   font-family: "Open Sans", Helvetica;
   text-transform: uppercase;
 }
