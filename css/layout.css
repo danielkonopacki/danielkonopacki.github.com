@@ -26,7 +26,7 @@ html, body {
 
 #social-media a {
   display: inline-block;
-  background: transparent url("/images/twitter-bird-dark-bgs.png") no-repeat center middle;
+  background: transparent url("/images/twitter-bird-dark-bgs.png") no-repeat center top;
   background-size: contain;
   width: 23px;
   height: 22px;
