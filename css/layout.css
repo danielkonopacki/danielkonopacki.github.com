@@ -36,7 +36,8 @@ html, body {
   width: 100%;
 }
 
-.post-blurb h3 em {
+.post-blurb h4 {
+  margin: 0;
   text-align: right;
 }
 
