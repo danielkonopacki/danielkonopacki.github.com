@@ -16,6 +16,7 @@ html, body {
 
 #header section ul li {
   display: inline;
+  margin-right: 5%;
 }
 
 .background {
