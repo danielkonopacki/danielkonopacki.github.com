@@ -28,11 +28,14 @@ html, body {
   display: inline-block;
   background: transparent url("/images/twitter-bird-dark-bgs.png") no-repeat center middle;
   background-size: contain;
+  width: 23px;
+  height: 22px;
 }
 
 .icon-link {
   text-indent: -9999px;
   overflow: hidden;
+  text-align: left;
 }
 
 .background {
