@@ -19,6 +19,10 @@ html, body {
   display: inline-block;
 }
 
+#header section ul {
+  display: inline;
+}
+
 #header section ul li {
   display: inline;
   margin-right: 2%;
