@@ -17,6 +17,10 @@ body {
   padding: 0;
 }
 
+#site-title #nav {
+  font-size: 85%;
+}
+
 #site-title a {
   color: white;
   text-decoration: none;
