@@ -4,6 +4,15 @@ body {
   font-size: 95%;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: gray;
+}
+
 #site-title,
 #nav {
   font-family: "Open Sans", Helvetica;
@@ -32,4 +41,10 @@ body {
 
 #site-title strong {
   font-weight: bold;
+}
+
+.post-blurb h3 {
+  font-family: "Open Sans", Helvetica;
+  margin-bottom: 0;
+  border-bottom: 1px solid black;
 }
