@@ -24,6 +24,16 @@ html, body {
   margin-right: 4%;
 }
 
+#social-media {
+  background: transparent url("/images/twitter-bird-dark-bgs.png") no-repeat center middle;
+  background-size: contain;
+}
+
+.icon-link {
+  text-indent: -9999px;
+  overflow: hidden;
+}
+
 .background {
   background: transparent url("/images/anya.jpg") no-repeat top center;
   background-size: cover;
