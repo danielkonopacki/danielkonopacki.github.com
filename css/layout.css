@@ -19,6 +19,11 @@ html, body {
   margin-right: 2%;
 }
 
+#header section {
+  position: absolute;
+  top: 0;
+}
+
 .background {
   background: transparent url("/images/anya.jpg") no-repeat top center;
   background-size: cover;
