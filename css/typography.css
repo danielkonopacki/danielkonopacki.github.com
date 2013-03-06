@@ -14,7 +14,8 @@ a:hover {
 }
 
 #site-title,
-#nav {
+#nav,
+.post-blurb h3 {
   font-family: "Open Sans", Helvetica;
   text-transform: uppercase;
 }
@@ -44,7 +45,6 @@ a:hover {
 }
 
 .post-blurb h3 {
-  font-family: "Open Sans", Helvetica;
   font-weight: normal;
   margin-bottom: 0;
   border-bottom: 1px solid gray;
