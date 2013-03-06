@@ -45,11 +45,7 @@ a:hover {
 }
 
 .post-blurb h3 {
-  font-weight: normal;
   margin-bottom: 0;
   border-bottom: 1px solid gray;
 }
 
-.post-blurb h3 a {
-  font-weight: bold;
-}
