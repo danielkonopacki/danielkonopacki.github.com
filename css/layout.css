@@ -24,7 +24,8 @@ html, body {
   margin-right: 4%;
 }
 
-#social-media {
+#social-media a {
+  display: inline-block;
   background: transparent url("/images/twitter-bird-dark-bgs.png") no-repeat center middle;
   background-size: contain;
 }
