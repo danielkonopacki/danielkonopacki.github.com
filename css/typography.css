@@ -19,6 +19,7 @@ body {
 
 #site-title #nav {
   font-size: 80%;
+  text-align: right;
 }
 
 #site-title a {
