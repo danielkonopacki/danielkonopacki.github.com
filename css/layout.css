@@ -32,6 +32,10 @@ html, body {
   height: 22px;
 }
 
+.post-blurb h3 em {
+  text-align: right;
+}
+
 .icon-link {
   text-indent: -9999px;
   overflow: hidden;

@@ -7,7 +7,7 @@ title: Home
   <div class="posts">
     {% for post in site.posts %}
       <div class="post-blurb">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a> on <em>{{ post.date | date: "%B %e, %Y" }}</em></h3>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a> <em>{{ post.date | date: "%B %e, %Y" }}</em></h3>
         <div>{{ post.description }}</div>
       </div>
     {% endfor %}
