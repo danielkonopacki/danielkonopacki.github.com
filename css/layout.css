@@ -14,7 +14,9 @@ html, body {
   top: 0;
 }
 
-#header h1 {
+#header h1,
+#header section,
+#header section ul {
   display: inline;
 }
 
