@@ -14,16 +14,7 @@ html, body {
   top: 0;
 }
 
-#header h1,
-#header section {
-  display: inline-block;
-}
-
-#header section ul {
-  display: inline;
-}
-
-#header section ul li {
+#nav ul li {
   display: inline;
   margin-right: 4%;
 }

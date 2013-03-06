@@ -17,12 +17,14 @@ body {
   padding: 0;
 }
 
-#site-title #nav {
+#nav {
   font-size: 80%;
   text-align: right;
+  background-color: black;
 }
 
-#site-title a {
+#site-title a,
+#nav a {
   color: white;
   text-decoration: none;
 }
