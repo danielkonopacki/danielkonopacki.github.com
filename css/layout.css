@@ -12,10 +12,11 @@ html, body {
   opacity: .8;
   position: fixed;
   top: 0;
+  z-index: 10;
 }
 
 #nav {
-  background-color: #7A6552;
+  background-color: #574B40;
 }
 
 #nav ul {
