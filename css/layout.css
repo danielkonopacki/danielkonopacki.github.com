@@ -29,6 +29,12 @@ html, body {
   margin-right: 4%;
 }
 
+#site-blurb h3 {
+  text-align: center;
+  font-size: 200%;
+  top: 200px;
+}
+
 #social-media a {
   display: inline-block;
   background: transparent url("/images/twitter-bird-dark-bgs.png") no-repeat center top;
