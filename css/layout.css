@@ -29,9 +29,10 @@ html, body {
   margin-right: 4%;
 }
 
-#site-blurb h3 {
+.background h3 {
+  margin: 0;
+  padding: 0;
   text-align: center;
-  font-size: 200%;
 }
 
 #social-media a {
