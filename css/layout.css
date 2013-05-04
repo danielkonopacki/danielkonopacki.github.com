@@ -35,6 +35,9 @@ html, body {
   color: white;
   font-size: 300%;
   text-align: center;
+  -moz-box-shadow: 2px 2px 2px 2px #ccc;
+  -webkit-box-shadow: 2px 2px 2px 2px #ccc;
+  box-shadow: 2px 2px 2px 2px #ccc;
 }
 
 #social-media a {
