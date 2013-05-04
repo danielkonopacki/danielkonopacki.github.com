@@ -5,7 +5,7 @@ description: My reasons for wearing a suit.
 category: 
 tags: []
 ---
-> People shouldn’t judge me for what I wear, but rather what I know.
+> People shouldn't judge me for what I wear, but rather what I know.
 
 This is the mantra of a generation loathed to putting on a suit, tie, or any combinatory dress. It used to be my mantra. In fact an entire industry – my industry – is iconic for hoodies and black turtlenecks.  I feel, however, that there is something lost in the statement, and most certainly in the attitude. We have relinquished grace and elegance for utilitarianism and I feel it just does not have to be that way. Allow me to elaborate.
 
