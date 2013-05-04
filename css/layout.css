@@ -83,3 +83,8 @@ html, body {
 .content-container {
   line-height: 2em;
 }
+
+#header .content-container {
+  width: 55%;
+  margin: 0 auto;
+}
