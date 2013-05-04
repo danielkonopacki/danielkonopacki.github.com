@@ -55,7 +55,7 @@ html, body {
   text-align: right;
 }
 
-.post,
+#post,
 .post-blurb {
   background-color: white;
   -moz-box-shadow: 1px 1px 3px 1px gray;
@@ -63,7 +63,7 @@ html, body {
   box-shadow: 1px 1px 3px 1px gray;
 }
 
-.post {
+#post {
   margin: 0 auto;
   width: 55%;
 }
