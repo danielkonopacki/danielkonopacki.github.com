@@ -79,8 +79,8 @@ html, body {
 .post-content blockquote {
   font-size: 150%;
   font-weight: bold;
-  color: silver;
-  text-shadow: 0px 0px 8px darkslategray;
+  color: darkgray;
+  text-shadow: 1px 1px 5px silver;
 }
 
 .post-blurb {
