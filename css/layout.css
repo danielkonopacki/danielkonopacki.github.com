@@ -55,13 +55,22 @@ html, body {
   text-align: right;
 }
 
+.post,
 .post-blurb {
-  width: 23%;
-  padding: 2%;
   background-color: white;
   -moz-box-shadow: 1px 1px 3px 1px gray;
   -webkit-box-shadow: 1px 1px 3px 1px gray;
   box-shadow: 1px 1px 3px 1px gray;
+}
+
+.post {
+  margin: 0 auto;
+  width: 55%;
+}
+
+.post-blurb {
+  width: 23%;
+  padding: 2%;
   float: left;
 }
 
