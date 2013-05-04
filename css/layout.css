@@ -55,6 +55,16 @@ html, body {
   text-align: right;
 }
 
+.post-blurb {
+  width: 25%;
+  padding: 2%;
+  background-color: white;
+  -moz-box-shadow: 2px 2px 4px 3px darkslategray;
+  -webkit-box-shadow: 2px 2px 4px 3px darkslategray;
+  box-shadow: 2px 2px 4px 3px darkslategray;
+  float: left;
+}
+
 .icon-link {
   text-indent: -9999px;
   overflow: hidden;
