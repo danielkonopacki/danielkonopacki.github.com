@@ -68,6 +68,14 @@ html, body {
   width: 55%;
 }
 
+.post-content {
+  padding: 3%;
+}
+
+.post-content h4 {
+  margin: 0;
+}
+
 .post-blurb {
   width: 23%;
   padding: 2%;

@@ -28,8 +28,10 @@
   </div>
   <div id="content" class="content-container">
     <div id="post">
-      <h4>{{ page.date | date: "%B %e, %Y" }}</h4>
-      {{ content }}
+      <div class="post-content">
+        <h4>{{ page.date | date: "%B %e, %Y" }}</h4>
+        {{ content }}
+      </div>
     </div>
   </div>
 </body>
