@@ -59,9 +59,9 @@ html, body {
   width: 25%;
   padding: 2%;
   background-color: white;
-  -moz-box-shadow: 2px 2px 4px 3px darkslategray;
+  -moz-box-shadow: 2px 2px 1px 3px darkslategray;
   -webkit-box-shadow: 2px 2px 4px 3px darkslategray;
-  box-shadow: 2px 2px 4px 3px darkslategray;
+  box-shadow: 2px 2px 1px 3px darkslategray;
   float: left;
 }
 
@@ -82,9 +82,10 @@ html, body {
 
 .content-container {
   line-height: 2em;
+  width: 90%;
+  margin: 0 auto;
 }
 
 #header .content-container {
   width: 55%;
-  margin: 0 auto;
 }
