@@ -59,9 +59,9 @@ html, body {
   width: 25%;
   padding: 2%;
   background-color: white;
-  -moz-box-shadow: 2px 2px 1px 3px darkslategray;
-  -webkit-box-shadow: 2px 2px 4px 3px darkslategray;
-  box-shadow: 2px 2px 1px 3px darkslategray;
+  -moz-box-shadow: 2px 2px 6px 2px darkslategray;
+  -webkit-box-shadow: 2px 2px 6px 2px darkslategray;
+  box-shadow: 2px 2px 6px 2px darkslategray;
   float: left;
 }
 
