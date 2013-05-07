@@ -1,38 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Daniel Konopacki | Master Jedi, Pixie Dust Engineering at Walt Disney : Technologist Storyteller, Amateur Chef, Husband, Dad, Wanna-be Photographer, Sartorialist, Car Geek, and much much more  | {{ page.title }}</title>
-  <meta name="author" content="Daniel Konopacki" />
-  <link rel="stylesheet" href="/css/layout.css" type="text/css" />
-  <link rel="stylesheet" href="/css/typography.css" type="text/css" />
-</head>
-
-<body>
-  <div id="header">
-    <div class="content-container">
-      <div id="site-title">
-        <h1><a href="/">Daniel<strong>Konopacki</strong></a></h1>
-      </div>
-    </div>
-    <div id="nav">
-      <div class="content-container">
-        <ul>
-          <li id="social-media"><a href="https://twitter.com/danielkonopacki" title="Find me on Twitter"><span class="icon-link">Daniel Konopacki on Twitter.com</span></a></li>
-          <li><a href="/about">About</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="background">
-    <h3>{{ page.title }}</h3>
-  </div>
-  <div id="content" class="content-container">
+---
+layout: default
+---  
     <div id="post">
       <div class="post-content">
         <h4>{{ page.date | date: "%B %e, %Y" }}</h4>
         {{ content }}
       </div>
     </div>
-  </div>
-</body>
-</html>
