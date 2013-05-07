@@ -24,7 +24,12 @@
     </div>
   </div>
   <div class="background">
-    <h3>Life. Style. Family.</h3>
+    <h3>{% if page.title == 'Home' %}
+      Life. Style. Family.
+      {% else %}
+      {{ page.title }}
+      {% endif %}
+    </h3>
   </div>
   <div id="content" class="content-container">
     {{ content }}
