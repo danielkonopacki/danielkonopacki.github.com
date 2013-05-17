@@ -33,7 +33,6 @@ html, body {
   margin: 0;
   padding: 200px 0 0 0;
   color: white;
-  font-size: 300%;
   text-align: center;
   text-shadow: 2px 2px 4px darkslategray;
 }
@@ -65,7 +64,6 @@ html, body {
 
 #post {
   margin: 0 auto;
-  width: 55%;
 }
 
 .post-content {
@@ -105,10 +103,26 @@ html, body {
 }
 
 #header .content-container {
-  width: 55%;
+  width: 90%;
 }
 
 @media screen and (min-device-width: 800px) {
+  #header .content-container {
+    width: 55%;
+  }
+
+  #nav {
+    text-align: right;
+  }
+
+  .background h3 {
+    font-size: 300%;
+  }
+
+  #post {
+    width: 55%;
+  }
+
   .post-blurb {
     width: 23%;
     padding: 2%;
